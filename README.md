@@ -1,1 +1,1 @@
-Frxlee Tarafından Hazırlanmoş v12 Öneri Şikayet Botudur , Yapmanız Gereken Tek Şey frxlee.js deki belirli yerleri doldurmak :)
+Frxlee Tarafından Hazırlanmış v12 Öneri Şikayet Botudur , Yapmanız Gereken Tek Şey frxlee.js deki belirli yerleri doldurmak :)
